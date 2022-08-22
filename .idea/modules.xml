@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeOnRoad.iml" filepath="$PROJECT_DIR$/.idea/PracticeOnRoad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bf/bf.iml" filepath="$PROJECT_DIR$/bf/bf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/face/face.iml" filepath="$PROJECT_DIR$/face/face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/written/written.iml" filepath="$PROJECT_DIR$/written/written.iml" />
     </modules>
   </component>
